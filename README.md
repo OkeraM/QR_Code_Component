@@ -77,5 +77,5 @@ In the future, I want to focus on getting more accustomed to using style element
 
 ## Author
 
-- Frontend Mentor - [@yOkeraM](https://www.frontendmentor.io/profile/OkeraM)
+- Frontend Mentor - [@OkeraM](https://www.frontendmentor.io/profile/OkeraM)
 
