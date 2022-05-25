@@ -24,7 +24,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-<img width="1440" alt="Screen Shot 2022-05-25 at 3 02 52 PM" src="https://user-images.githubusercontent.com/76667866/170348247-575ef657-f838-40cb-846b-1806837cca29.png">
+<img width="1440" alt="Screen Shot 2022-05-25 at 5 30 46 PM" src="https://user-images.githubusercontent.com/76667866/170370830-0fed220e-a659-4c59-a017-8e17b02e53b6.png">
+
 
 ### Links
 
