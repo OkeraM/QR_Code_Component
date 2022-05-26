@@ -27,9 +27,11 @@ body {
 
 @import url('https://fonts.googleapis.com/css2?family=Outfit&display=swap');
 
-h2 {
+h1 {
     text-align: center;
     font-family: 'Outfit', sans-serif;
+    font-size: larger;
+    margin-bottom: 20px;
 }
 
 p {
